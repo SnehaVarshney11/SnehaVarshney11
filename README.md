@@ -1,4 +1,7 @@
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello Visitor's!! ⚡⚡
+### 
+<h1 align="center">Hi 👋, I'm Sneha Varshney</h1>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello Visitor's!! 
+⚡⚡
 <a href="https://www.instagram.com/i_m_var.sneha/">
   <img align="left" alt="Sneha's Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
@@ -56,9 +59,9 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 <hr>
 <details>
  <summary>📈 My Github Stats...</summary>
-  <!-- <p align="center"> 
-    <img align="Right" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=dark" alt="mrpawan-gupta" />
-  </p> -->
+  <p align="center"> 
+    <img align="Right" src="https://github-readme-stats.vercel.app/api?username=SnehaVarshney11&show_icons=true&theme=dark" alt="SnehaVarshney11" />
+  </p> 
  </details>
  </hr>
  </div>
@@ -67,10 +70,13 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
  <hr>
   <details>
   <summary>�🔭 Languages Used by me :- </summary>
-  <!-- <p align="center"> 
-    <figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/@mrpawan_gupta/95b70aaf-43b5-47ef-8dd3-c7a3c9ce0a7b.png" /></a></figure>
-  </p> -->
+  <p align="center"> 
+    <figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/Sneha_Varshney/95b70aaf-43b5-47ef-8dd3-c7a3c9ce0a7b.png" /></a></figure>
+  </p> 
   </detail>
  </hr></div>
 
 
+
+
+ 
