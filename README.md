@@ -6,16 +6,16 @@
   <img align="left" alt="Sneha's Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="https://twitter.com/SnehaVarshney13">
-  <img align="left" alt="Pawan Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sneha Varshney | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/var-sneha/">
-  <img align="left" alt="Pawan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sneha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.codechef.com/users/sneha_varshney">
-  <img align="left" alt="Pawan's CodeChef" width="22px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
+  <img align="left" alt="Sneha's CodeChef" width="22px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
 </a>
 <a href="https://leetcode.com/Sneha_Varshney/">
-  <img align="left" alt="Pawan's leetcode" width="22px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" /></a>
+  <img align="left" alt="Sneha's leetcode" width="22px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" /></a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SnehaVarshney11.SnehaVarshney11)
