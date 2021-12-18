@@ -74,7 +74,7 @@ CSS        3 mins          ░░░░░░░░░░░░░░░░░�
   <details>
   <summary>�🔭 Languages Used by me :- </summary>
   <p align="center"> 
-    <figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/Sneha_Varshney/95b70aaf-43b5-47ef-8dd3-c7a3c9ce0a7b.png" /></a></figure>
+    <figure><embed src="https://wakatime.com/share/@Sneha_Varshney/ab68c812-09ff-408b-b449-e844438772a2.svg"></embed></figure>
   </p> 
   </detail>
  </hr></div>
