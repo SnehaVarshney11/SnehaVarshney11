@@ -47,8 +47,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 📊 **This week I spent my time on: ✨✨**
 <!--START_SECTION:waka-->
 ```text
-Java       6 hrs 24 mins   ████████████████████████▓   98.78 % 
-Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Java       6 hrs 53 mins   █████████████████████████   99.77 % 
 ```
 <!--END_SECTION:waka-->
 
