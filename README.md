@@ -27,18 +27,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-varshneysneha1109@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varshneysneha1109@gmail.com)](mailto:varshneysneha1109@gmail.com)
 
 ---
-
-
-<<<<<<< HEAD
-=======
-📊 **This week I spent my time on: ✨✨**
-<!--START_SECTION:waka-->
-```text
-Java       7 hrs 24 mins   █████████████████████████   99.79 % 
-```
-<!--END_SECTION:waka-->
->>>>>>> b0da3377d6c604d70fb47177d81d99226214f9c8
-
  📶 Stats:<br><br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaVarshney11&theme=dark&layout=compact&align=right&width=40%)](https://wakatime.com/share/@Sneha_Varshney/26dfae2a-c2e0-4125-a421-27dac91a77b4.png")
