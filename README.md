@@ -1,85 +1,57 @@
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello Visitor's!! ⚡⚡
+<h2 align=center>👋 Good to have you here!!</h2>
+
 <a href="https://www.instagram.com/i_m_var.sneha/">
   <img align="left" alt="Sneha's Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="https://twitter.com/SnehaVarshney13">
   <img align="left" alt="Sneha Varshney | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/var-sneha/">
-  <img align="left" alt="Sneha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <a href="https://www.codechef.com/users/sneha_varshney">
   <img align="left" alt="Sneha's CodeChef" width="22px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
 </a>
 <a href="https://leetcode.com/Sneha_Varshney/">
-  <img align="left" alt="Sneha's leetcode" width="22px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" /></a>
+  <img align="left" alt="Sneha's leetcode" width="22px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" /></a><br><br>
+
+🌱 **About myself**<br>
+
+✔️ I am **Sneha Varshney**, currently pursuing my bachelors from GLA University,Mathura in *Computer and Science Engineering*. <br>
+
+✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
+
+✔️ I have experience in Android App Development .<br>
+
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-SnehaVarshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/var-sneha/)](https://www.linkedin.com/in/var-sneha/)
+
+[![Gmail Badge](https://img.shields.io/badge/-varshneysneha1109@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varshneysneha1109@gmail.com)](mailto:varshneysneha1109@gmail.com)
+
+---
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=SnehaVarshney11.SnehaVarshney11)
 
-<br />
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-Hii, I'm [Sneha Varsney](https://www.instagram.com/i_m_var.sneha/), a passionate self-taught software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and a Competitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's 🌱🌱.
-
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**Languages and Tools:** 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
-
- <img align="right" alt="GIF" src="https://github.com/SnehaVarshney11/SnehaVarshney11/blob/main/code.gif" width="500" height="320" />
-
-
-📊 **This week I spent my time on: ✨✨**
-<!--START_SECTION:waka-->
-```text
-Java       5 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.36 % 
-Markdown   2 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.73 % 
-HTML       1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-YAML       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-CSS        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-```
-<!--END_SECTION:waka-->
-
-**Something I Truly Believe:- **
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash;</blockquote> 
-
-<div>
-<hr>
-<details>
- <summary>📈 My Github Stats...</summary>
-  <p align="center"> 
-    <img align="Right" src="https://github-readme-stats.vercel.app/api?username=SnehaVarshney11&show_icons=true&theme=dark" alt="SnehaVarshney11" />
-  </p> 
- </details>
- </hr>
- </div>
+ 📶 Stats:<br><br>
  
- <div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaVarshney11&theme=dark&layout=compact&align=right&width=40%)](https://wakatime.com/share/@Sneha_Varshney/26dfae2a-c2e0-4125-a421-27dac91a77b4.png")
+ 
+ 
+ ---
+ 
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SnehaVarshney11.SnehaVarshney11)
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SnehaVarshney11&theme=dark&show_icons=true)
+ 
  <hr>
-  <details>
-  <summary>�🔭 Languages Used by me :- </summary>
-  <p align="center"> 
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Sneha_Varshney/26dfae2a-c2e0-4125-a421-27dac91a77b4.png" /></a>
-  </p> 
-  </detail>
- </hr></div>
-
-
-
-
  
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnehaVarshney11&theme=dark&layout=compact)](https://git.io/streak-stats)
+---
+ 
+
+[![Sneha's github activity graph](https://activity-graph.herokuapp.com/graph?username=SnehaVarshney11&theme=dracula)](https://github.com/SnehaVarshney11/github-readme-activity-graph)
+  
+
+---
+  </code>
+</p>
