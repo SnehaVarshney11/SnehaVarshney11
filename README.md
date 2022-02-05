@@ -29,6 +29,15 @@
 ---
 
 
+<<<<<<< HEAD
+=======
+📊 **This week I spent my time on: ✨✨**
+<!--START_SECTION:waka-->
+```text
+Java       7 hrs 24 mins   █████████████████████████   99.79 % 
+```
+<!--END_SECTION:waka-->
+>>>>>>> b0da3377d6c604d70fb47177d81d99226214f9c8
 
  📶 Stats:<br><br>
  
