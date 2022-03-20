@@ -1,7 +1,7 @@
 <h2 align=center>👋 Good to have you here!!</h2>
 
 <a href="https://www.instagram.com/i_m_var.sneha/">
-  <img align="left" alt="Sneha's Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="left" alt="Sneha's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="https://twitter.com/SnehaVarshney13">
   <img align="left" alt="Sneha Varshney | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
