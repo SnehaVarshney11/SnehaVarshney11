@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Accenture as ASE**
 
-- 🌱 I’m currently learning **Java Spring Boot for backend development and React for frontend development.**
+- 🌱 I’m currently learning **NodeJs for backend development and React for frontend development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SnehaVarshney11](https://github.com/SnehaVarshney11)
 
