@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working in **Accenture as ASE**
 
-- 🌱 I’m currently learning **NodeJs for backend development and React for frontend development.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/SnehaVarshney11](https://github.com/SnehaVarshney11)
 
 - 📫 How to reach me **varshneysneha1109@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uvwIg69YZSXHeTvM0PVX6nzbMmTKIQ7V/view?usp=sharing](https://drive.google.com/file/d/1uvwIg69YZSXHeTvM0PVX6nzbMmTKIQ7V/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
