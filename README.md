@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Varshney</h1>
 <h3 align="center">A passionate FullStack Java Developer</h3>
 
-- 🔭 I’m currently working in **Accenture as ASE**
+- 🔭 I’m currently working in **Accenture as Analyst**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SnehaVarshney11](https://github.com/SnehaVarshney11)
 
